@@ -3,6 +3,12 @@
 # Alteração feita no Senai-teste-JS
 Uma alteração foi feita em seu código evitando conflitos
 
+#### Por que usar Git?
+Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de trabalho, segurança e desempenho.
+
+#### Commit?
+Um commit é a realização de um conjunto de mudanças provisórias permanentes, marcando o fim de uma transação. Em sistemas de controle de versão, como o Git, um commit adiciona as alterações mais recentes do código-fonte para o repositório, tornando essas alterações parte da revisão principal do repositório. Os sistemas de controle de versão permitem reverter facilmente para versões anteriores.
+
 ## Passos para commitar um projeto
 - git bash here (na pasta que será commitada)
 - cd "nome da pasta" (caso necessario)
